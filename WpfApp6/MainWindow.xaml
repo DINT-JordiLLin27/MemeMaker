@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp6"
         mc:Ignorable="d"
-        Title="MemeMaker" MinHeight="800" MinWidth="500" Icon="emotes_face_kiss_marya.ico" Height="1083.824">
+        Title="MemeMaker" MinHeight="800" MinWidth="600" Icon="emotes_face_kiss_marya.ico" Height="1083.824">
     <Window.Resources>
         <local:ConversorBorde x:Key="conversorBorde"></local:ConversorBorde>
         <Style TargetType="{x:Type Label}">
